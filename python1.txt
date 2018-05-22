@@ -1,0 +1,41 @@
+1. print("Hello How Are You!!")
+
+	Output=Hello How Are You!!
+
+
+2. print("Acad"+"View")
+
+	Output=AcadView
+
+3. num=input("Enter the value of x,y and z")
+	Enter the value of x,y and z 
+	10,20,30
+
+	print("User has entered",num)
+
+	Output=User has entered 10,20,30
+
+
+4. print('Let\'s get started')
+
+	Output=Let's get started
+
+
+5. s="Acadview"
+   course="Python"
+   fees=5000
+
+	print("I am Kartik and i am doing a %s course in %s and my 
+               fees is %d" %(course,s,fees))
+
+	Output=I am Kartik and i am doing a Python course in Acadview 
+               and my fees is 5000
+
+6. name="Tony Stark"
+   salary=1000000
+
+	print("%s""%d" %(name,salary))
+
+	Output=Tony Stark 1000000
+
+
